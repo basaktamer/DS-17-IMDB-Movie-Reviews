@@ -1,0 +1,19 @@
+# Core Data Libraries
+pandas
+numpy
+
+# Visualizations
+matplotlib
+seaborn
+wordcloud
+
+# NLP & Machine Learning
+scikit-learn
+neattext
+
+# Deep Learning (Pinned for Python 3.10 stability)
+tensorflow-cpu==2.15.0
+keras==2.15.0
+
+# Deployment
+streamlit
